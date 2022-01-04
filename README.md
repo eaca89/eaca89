@@ -1,6 +1,5 @@
 ### Hi there, I'm Ehsan - [eaca89][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url)](https://progskillss.com)
 
 ## I'm a Developer, and Teacher!
 
