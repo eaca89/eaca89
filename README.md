@@ -3,9 +3,9 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Fullstack development.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to hike and climb mountains.
 
 <br />
