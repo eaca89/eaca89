@@ -1,8 +1,4 @@
 ### Hi there, I'm Ehsan - [eaca89][website] 👋 
-### This is my profile status.
-
-<p align="left"><a href="https://github.com/eaca89?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=eaca89&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
-<a href="https://github.com/eaca89?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eaca89&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
 
 ## I'm a Developer, and Teacher!
 
@@ -12,6 +8,8 @@
 - ⚡ Fun fact: I love to hike and climb mountains.
 
 <br />
+<p align="left"><a href="https://github.com/eaca89?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=eaca89&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
+<a href="https://github.com/eaca89?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eaca89&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
 
 ### Languages and Tools:
 
