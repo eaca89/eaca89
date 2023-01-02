@@ -22,4 +22,4 @@
 <img align="left" alt="GitHub" width="46px" src="https://user-images.githubusercontent.com/31166420/149887821-52a20b21-c248-46bb-b6f3-48e31937db99.png" />
 <img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/31166420/149887461-0cba1120-2734-4a09-8b23-cc02ac3e03f8.png" />
 
-[website]: https://progskillss.com
+[website]: https://w3camps.com
