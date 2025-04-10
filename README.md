@@ -1,6 +1,6 @@
 ### Hi there, I'm Ehsan - [eaca89][website] 👋 
 
-## An ML and Prompt Engineer | Back End Developer (Python, SQL), and a YouTuber!
+## An ML and Prompt Engineer | Back End Developer, and a YouTuber!
 
 - 🌱 I’m currently learning Fullstack development.
 - 👯 I’m looking to collaborate with other content creators.
