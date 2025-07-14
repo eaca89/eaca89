@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Fullstack development.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to hike and climb mountains.
+- 🥅 2025 Goals: Contribute more to Open Source projects and challenge myself!
+- ⚡ Fun fact: I love to hike, kayak, and climb mountains.
 
 <br />
 <p align="left"><a href="https://github.com/eaca89?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=eaca89&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
